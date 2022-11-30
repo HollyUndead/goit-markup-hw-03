@@ -71,7 +71,7 @@ body{
 
 .navigation-bar{
     background: rgba(255, 255, 255, 1);
-    height: 41px;
+    height: 31px;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
