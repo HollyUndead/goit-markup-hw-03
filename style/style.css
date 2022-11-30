@@ -46,6 +46,17 @@ button:hover{
     cursor: pointer;
 }
 
+body{
+    font-family: 'Roboto', 'Raleway', sans-serif;
+    background-color: #FFFFFF;
+    color: #212121;
+    font-size: 14px;
+}
+
+.hiden{
+    display: none;
+}
+
 .section-title{
     font-weight: 700;
     font-size: 36px;
@@ -53,13 +64,6 @@ button:hover{
     text-align: center;
     letter-spacing: 0.03em;
     color: rgba(33, 33, 33, 1);
-}
-
-body{
-    font-family: 'Roboto', 'Raleway', sans-serif;
-    background-color: #FFFFFF;
-    color: #212121;
-    font-size: 14px;
 }
 
 
@@ -124,7 +128,7 @@ body{
 
 
 
-.text-with-button{
+.hero-section{
      
     margin-left: calc(50% - 50vw);
     width: 100vw;
